@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.Gouse Jaheer</h1>
-<h3 align="center">Versatile Full Stack Developer | Skilled in React, Firebase, MySQL, HTML, CSS, Javascript, Bootstrap, C, Java, Python | Focused on Creating Responsive eCommerce Platforms & Engaging Web Experiences</h3>
+<h1 align="center">About Me</h1>
+<h4 align="center">Versatile Full Stack Developer | Skilled in React, Firebase, MySQL, HTML, CSS, Javascript, Bootstrap, C, Java, Python | Focused on Creating Responsive eCommerce Platforms & Engaging Web Experiences</h4>
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
